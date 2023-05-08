@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall CMakeFiles/gpu.dir/gpu_generated_main.cu.o -o gpu   -L/usr/lib/x86_64-linux-gnu/stubs  /usr/lib/x86_64-linux-gnu/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
